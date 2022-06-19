@@ -8,12 +8,14 @@
     <language>zh-tw</language>
     <lastBuildDate>Mon, 20 Jun 2022 03:56:00 +0800</lastBuildDate><atom:link href="https://christu6899.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>利用Github建立個人網站</title>
-      <link>https://christu6899.github.io/home/github-website/</link>
+      <title>使用 GitHub 免費製作個人網站</title>
+      <link>https://christu6899.github.io/home/github_website/</link>
       <pubDate>Mon, 20 Jun 2022 03:56:00 +0800</pubDate>
       
-      <guid>https://christu6899.github.io/home/github-website/</guid>
-      <description>Github 個人網站建立教學 </description>
+      <guid>https://christu6899.github.io/home/github_website/</guid>
+      <description>建立我的部落格網站 架設網站的選擇 對於窮學生的我來說市面上的託管網站都要錢，如果架在自己的電腦上又有資安問題而且電腦關機網站就會被shotdown，一直開著又十分浪費電，所以免費又穩定Github對我來說是最好的選擇。
+前置作業 先到 Github 註冊一個帳號，下載github desktop並安裝
+新增專案 首先在 GitHub Desktop左上角按file開一個全新的專案：</description>
     </item>
     
     <item>
@@ -22,7 +24,8 @@
       <pubDate>Mon, 20 Jun 2022 02:23:00 +0800</pubDate>
       
       <guid>https://christu6899.github.io/home/start/</guid>
-      <description>部落格的起點 即將畢業於高科大資工系的我，最近都在為了找工作做準備，學習各種學校沒教在業界必備的技能，尋找資料的過程中看見了許多工程師的個人網站，覺得利用部落格來記錄自己的學習歷程，是向面試公司講述自己所擁有的能力的最佳管道，雖然看似有點晚了但是人們總是說永遠也不嫌晚對吧，所以我在此寫下部落格的第一篇文章。 </description>
+      <description>部落格的起點 即將畢業於高科大資工系的我，最近都在為了找工作做準備，學習各種學校沒教在業界必備的技能，尋找資料的過程中看見了許多工程師的個人網站，覺得利用部落格來記錄自己的學習歷程，是向面試公司講述自己所擁有的能力的最佳管道，雖然看似有點晚了但是人們總是說永遠也不嫌晚對吧，所以我在此寫下部落格的第一篇文章。
+下一篇文章:使用 GitHub 免費製作個人網站</description>
     </item>
     
   </channel>
