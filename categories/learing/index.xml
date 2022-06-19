@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>learing on Chris&#39;s Blog</title>
+    <link>https://christu6899.github.io/categories/learing/</link>
+    <description>Recent content in learing on Chris&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 20 Jun 2022 02:23:00 +0800</lastBuildDate><atom:link href="https://christu6899.github.io/categories/learing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>自我鍛鍊的開始</title>
+      <link>https://christu6899.github.io/home/start/</link>
+      <pubDate>Mon, 20 Jun 2022 02:23:00 +0800</pubDate>
+      
+      <guid>https://christu6899.github.io/home/start/</guid>
+      <description>部落格的起點 即將畢業於高科大資工系的我，最近都在為了找工作做準備，學習各種學校沒教在業界必備的技能，尋找資料的過程中看見了許多工程師的個人網站，覺得利用部落格來記錄自己的學習歷程，是向面試公司講述自己所擁有的能力的最佳管道，雖然看似有點晚了但是人們總是說永遠也不嫌晚對吧，所以我在此寫下部落格的第一篇文章。 </description>
+    </item>
+    
+  </channel>
+</rss>
