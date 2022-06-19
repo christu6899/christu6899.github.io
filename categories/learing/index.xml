@@ -6,7 +6,16 @@
     <description>Recent content in learing on Chris&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 20 Jun 2022 03:56:00 +0800</lastBuildDate><atom:link href="https://christu6899.github.io/categories/learing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Jun 2022 07:07:00 +0800</lastBuildDate><atom:link href="https://christu6899.github.io/categories/learing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用hugo快速打造精美網頁</title>
+      <link>https://christu6899.github.io/home/hugo/</link>
+      <pubDate>Mon, 20 Jun 2022 07:07:00 +0800</pubDate>
+      
+      <guid>https://christu6899.github.io/home/hugo/</guid>
+      <description>撰寫中 </description>
+    </item>
+    
     <item>
       <title>使用 GitHub 免費製作個人網站</title>
       <link>https://christu6899.github.io/home/github_website/</link>
@@ -16,15 +25,6 @@
       <description>建立我的部落格網站 架設網站的選擇 對於窮學生的我來說市面上的託管網站都要錢，如果架在自己的電腦上又有資安問題而且電腦關機網站就會被shotdown，一直開著又十分浪費電，所以免費又穩定Github對我來說是最好的選擇。
 前置作業 先到 Github 註冊一個帳號，下載github desktop並安裝
 新增專案 首先在 GitHub Desktop左上角按file開一個全新的專案：</description>
-    </item>
-    
-    <item>
-      <title>使用hugo快速打造精美網頁</title>
-      <link>https://christu6899.github.io/home/hugo/</link>
-      <pubDate>Mon, 20 Jun 2022 03:56:00 +0800</pubDate>
-      
-      <guid>https://christu6899.github.io/home/hugo/</guid>
-      <description>撰寫中 </description>
     </item>
     
     <item>
